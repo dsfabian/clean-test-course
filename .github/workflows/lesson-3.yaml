@@ -19,7 +19,7 @@ jobs:
       - name: '**PLACEHOLDER** Deploy to Elastic Beanstalk'
         run: echo Placeholder for Deployment
 
-  functon_test:
+  function_test:
     runs-on: ubuntu-latest
     defaults:
       run:
